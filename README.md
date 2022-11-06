@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Evan Wheatley.
 - 🏖️ Gold Coast, QLD, Australia.
-- 🇦🇺 + 🇨🇦 Australia + Canadian.
+- 🇦🇺 + 🇨🇦 Australian + Canadian.
 - 🤓 Network Engineer.
